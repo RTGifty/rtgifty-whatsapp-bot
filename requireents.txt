@@ -1,0 +1,3 @@
+fask
+requests
+gunicorn
